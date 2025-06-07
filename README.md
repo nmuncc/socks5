@@ -14,7 +14,8 @@ Go-Socks-Proxy is easy to use. Simply configure your device's network settings t
 Please note that Go-Socks-Proxy doesn't provide encryption, so it's not recommended to use it for sensitive data.
 
 ## Contributions
-Contributions to the project are welcome. Feel free to fork the repository and submit a pull request.
+Thanks for contributing to the project.
+[![Powered by DartNode](https://dartnode.com/branding/DN-Open-Source-sm.png)](https://dartnode.com "Powered by DartNode - Free VPS for Open Source")
 
 ## License
 Go-Socks-Proxy is released under the MIT license. See `LICENSE` for more information.
